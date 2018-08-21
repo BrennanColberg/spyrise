@@ -1,0 +1,12 @@
+{
+    "locations": {
+		"airplane": {
+			"title": "Airplane",
+			"Pilot": 0,
+			"Copilot": 0,
+			"Passenger": 6,
+			"Stewardess": 2,
+			"Mechanic": 1
+		}
+    }
+}
